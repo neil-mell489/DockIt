@@ -1,6 +1,6 @@
 # Dockit
 Dockit - a customizable To Do list and planner.
-
+Originally created for me to help develop habits.
 
 Uses Flutter!
 
@@ -13,7 +13,7 @@ Lsit of possible features- yet to sort into MVPs and Ice Box Reaches
 - Dark/light mode
 - user authorizations
 - toggable feature to put checkmarked entries at the bottom of the list
-- 
+- NOTIFICATIONS! Push notifications, emails, texts (if doable), in-app messaging, calendar integration (works with iCal or Google Calendar) 
 
 ## ChatGPT Suggestions for Features
 
