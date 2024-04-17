@@ -1,8 +1,8 @@
-# Dockit
-Dockit - a customizable To Do list and planner.
+# Goal Tracking App
+Dockit - a customizable To Do list and planner available on the app store for iPhone.
 Originally created for me to help develop habits.
 
-Uses Flutter!
+Uses Swift!
 
 
 ## Brainstorming
